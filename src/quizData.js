@@ -1,0 +1,15 @@
+export const quiz = [
+    "Now where going to play a game where you test me on PHP classes and objects. You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on GIT You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on PHP You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on PHP exeoption handling. You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on PHP file handling. You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on PHP database connectivity. You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on PHP patterns. You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on PHP sessions and cookies. You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on PHP build in functions and their parameters. You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on PHP MySQL CRUD operations. You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on PHP HTTP methods and their purpose. You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+    "Now where going to play a game where you test me on PHP file handling functions and their usage. You bill give me on question at a time and I will answer it you will tell if I’m write or wrong and why. Your questions can be anything related to it and with code examples",
+
+]

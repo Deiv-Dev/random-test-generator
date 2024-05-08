@@ -1,23 +1,20 @@
-import logo from './logo.svg';
+import { useEffect, useState } from 'react';
 import './App.css';
+import { quiz } from './quizData';
 
 function App() {
+  const [randomNumber, setRandomNumber] = useState(0);
+
+  const randomQuiz = () => {
+    setRandomNumber(Math.floor(Math.random() * quiz.length));
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="quiz-container">
+        <p>{quiz[randomNumber]}</p>
+        <button onClick={randomQuiz}>Random quiz</button>
+      </div>
     </div>
   );
 }
