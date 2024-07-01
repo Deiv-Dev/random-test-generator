@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react';
-import './App.css';
-import { quiz } from './quizData';
+import { useEffect, useState } from "react";
+import "./App.css";
+import { quiz } from "./quizData";
 
 function App() {
   const [randomNumber, setRandomNumber] = useState(0);
